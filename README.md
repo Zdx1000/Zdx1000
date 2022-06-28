@@ -1,9 +1,14 @@
-## 🌐 Black spy 🌐  <img align="right" alt="Black-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/945064310734987264/991243063575978035/40326658_1827593590695608_4263099892794130432_n.png">
+## 🌐 Black spy 🌐  
+<img align="right" alt="Black-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/945064310734987264/991243063575978035/40326658_1827593590695608_4263099892794130432_n.png">
+<p align="center"><img src="https://gpvc.arturio.dev/Zdx1000" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Zdx1000" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Zdx1000" alt="Profile Forks"></a>
 
-- 🌐 print(f'Hoje sou estudante de Python e {JavaScript}')
-- 🌐 data_base = str(f'Minha base é {Python 3.10.5}')
-- 🌐 nick = str(input('Meu nickname: ')) Black spy
-
+```python
+print(f'Hoje sou estudante de Python e {JavaScript}')
+ata_base = str('Minha base é {}'.format('Python 3.10.5'))
+nick = str(input('Meu nickname: ')) #Black spy
+```
 ##
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Zdx1000&show_icons=true&theme=midnight-purple)  
@@ -25,6 +30,6 @@
     <a href = "https://github.com/Zdx1000"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
         <a href = ""><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"_blank"></a>
  
-  ![Snake animation](https://github.com/Zdx1000/Zdx1000/blob/output/github-contribution-grid-snake.svg)
+<a href="https://dsc.gg/astraadev" target="_blank"><img src="https://github.com/Zdx1000/Zdx1000/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
  
 </div>
