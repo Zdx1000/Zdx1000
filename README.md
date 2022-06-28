@@ -25,6 +25,6 @@
     <a href = "https://github.com/Zdx1000"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
         <a href = ""><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"_blank"></a>
  
-  ![Snake animation](https://github.com/Zdx1000/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Zdx1000/Zdx1000/blob/output/github-contribution-grid-snake.svg)
  
 </div>
