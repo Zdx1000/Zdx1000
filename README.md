@@ -1,19 +1,36 @@
-# 🌐 Black Spy 🌐
-
+## 🌐 Black spy 🌐  
 <img align="right" alt="Black-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/945064310734987264/991243063575978035/40326658_1827593590695608_4263099892794130432_n.png">
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/Zdx1000" alt="Visitors">
-  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Zdx1000" alt="Profile Stars">
-  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Zdx1000" alt="Profile Forks">
-</p>
-
----
+<p align="center"><img src="https://gpvc.arturio.dev/Zdx1000" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Zdx1000" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Zdx1000" alt="Profile Forks"></a>
 
 ```python
-print(f"Hoje sou estudante de Python e {JavaScript}")
-ata_base = str("Minha base é {}".format("Python 3.10.5"))
-nick = str(input("Meu nickname: "))  # Black Spy
+class converter:
+    def __init__(self, numero_1:int, numero_2:int) -> int:
+        self.id = id
+        self.numero_1 = numero_1
+        self.numero_2 = numero_2
+
+    def somar(self) -> int:
+        return self.numero_1 + self.numero_2
+    
+    def subtrair(self) -> int:
+        return self.numero_1 - self.numero_2
+    
+    def multiplicar(self) -> int:
+        return self.numero_1 * self.numero_2
+    
+    def dividir(self) -> float:
+        if self.numero_2 == 0:
+            raise ValueError("Divisão por zero não é permitida.")
+        return self.numero_1 / self.numero_2
+    
+if __name__ == "__main__":
+    calc = converter(10, 2)
+    print("Soma:", calc.somar())
+    print("Subtração:", calc.subtrair())
+    print("Multiplicação:", calc.multiplicar())
+    print("Divisão:", calc.dividir())
 ```
 ##
 
