@@ -33,3 +33,5 @@ nick = str(input('Meu nickname: ')) #Black spy
 <a href="https://dsc.gg/astraadev" target="_blank"><img src="https://github.com/Zdx1000/Zdx1000/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
  
 </div>
+
+<p align="center"> <a href="https://dsc.gg/astraadev" target="_blank"> <img src="https://github.com/Zdx1000/Zdx1000/blob/output/github-contribution-grid-snake.svg" alt="snake"> </a> </p>
