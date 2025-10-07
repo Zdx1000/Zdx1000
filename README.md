@@ -55,9 +55,5 @@ if __name__ == "__main__":
  
 <a href="https://dsc.gg/astraadev" target="_blank"><img src="https://github.com/Zdx1000/Zdx1000/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
  
 </div>
