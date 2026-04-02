@@ -89,25 +89,6 @@ print(me.say_hi())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zdx1000&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zdx1000&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=Zdx1000&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zdx1000&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4133&hide_border=true&custom_title=📈%20Contribuições" />
-
-</div>
-
----
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
 <img height="180em" src="https://github-readme-stats-zdx1000.vercel.app/api?username=Zdx1000&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats-zdx1000.vercel.app/api/top-langs/?username=Zdx1000&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
 
