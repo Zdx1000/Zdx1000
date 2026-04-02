@@ -85,20 +85,16 @@ print(me.say_hi())
 
 ---
 
-## 🚀 &nbsp;Projetos em Destaque
-
----
-
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zdx1000&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zdx1000&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-zdx1000.vercel.app/api?username=Zdx1000&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-zdx1000.vercel.app/api/top-langs/?username=Zdx1000&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=Zdx1000&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" />
+<img width="90%" src="https://streak-stats.demolab.com?user=Zdx1000&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" />
 
 <br/>
 
@@ -107,30 +103,6 @@ print(me.say_hi())
 </div>
 
 ---
-
-## 🐍 &nbsp;Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zdx1000/Zdx1000/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zdx1000/Zdx1000/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Zdx1000/Zdx1000/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-
----
-
-## 📫 &nbsp;Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-Zdx1000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zdx1000)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-
-<br/>
-
-```
 ⚡ "Código limpo é aquele que funciona, escala e é entendido." ⚡
 ```
 
