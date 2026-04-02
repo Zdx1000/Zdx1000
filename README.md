@@ -125,31 +125,6 @@ print(me.say_hi())
 
 </div>
 
----
-
-## 🐍 &nbsp;Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zdx1000/Zdx1000/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zdx1000/Zdx1000/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Zdx1000/Zdx1000/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-> 💡 *Para ativar a animação da cobra, adicione o workflow **[snk](https://github.com/Platane/snk)** no repositório do seu perfil.*
-
----
-
-## 📫 &nbsp;Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-Zdx1000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zdx1000)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-
-<br/>
-
 ```
 ⚡ "Código limpo é aquele que funciona, escala e é entendido." ⚡
 ```
