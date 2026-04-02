@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%90%8D+Python+Developer+%7C+Automation+Specialist;%F0%9F%92%BB+Backend+%2B+Desktop+GUI+%2B+Dashboards;%F0%9F%94%A7+Transformando+ideias+em+c%C3%B3digo+eficiente" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%90%8D+Python+Developer+%7C+Automation;%F0%9F%92%BB+Backend+%2B+Desktop+GUI+%2B+Dashboards;%F0%9F%94%A7+Transformando+ideias+em+c%C3%B3digo+eficiente" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -49,7 +49,7 @@ print(me.say_hi())
 - 🐍 &nbsp;Especialista em **Python** — minha linguagem principal
 - 📊 &nbsp;Criando **Dashboards** e **Painéis interativos**
 - 🖥️ &nbsp;Desenvolvendo **Interfaces Desktop** com PySide6 & Tkinter
-- 🤖 &nbsp;Experiência com **Bots para Discord**
+- 🤖 &nbsp;Experiência com **Bots**
 - 📁 &nbsp;Automação de **planilhas e relatórios** (xlsx)
 - 🚀 &nbsp;Sempre aprendendo e evoluindo
 
@@ -87,23 +87,6 @@ print(me.say_hi())
 
 ## 🚀 &nbsp;Projetos em Destaque
 
-<div align="center">
-
-<a href="https://github.com/Zdx1000/MaxTour">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Zdx1000&repo=MaxTour&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=30363d" />
-</a>
-<a href="https://github.com/Zdx1000/Painel-Py-Interface-Js">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Zdx1000&repo=Painel-Py-Interface-Js&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=30363d" />
-</a>
-<a href="https://github.com/Zdx1000/Automacao-xlsx-py-2">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Zdx1000&repo=Automacao-xlsx-py-2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=30363d" />
-</a>
-<a href="https://github.com/Zdx1000/Bot-de-Registro">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Zdx1000&repo=Bot-de-Registro&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=30363d" />
-</a>
-
-</div>
-
 ---
 
 ## 📊 &nbsp;GitHub Analytics
@@ -135,7 +118,6 @@ print(me.say_hi())
   </picture>
 </div>
 
-> 💡 *Para ativar a animação da cobra, adicione o workflow **[snk](https://github.com/Platane/snk)** no repositório do seu perfil.*
 
 ---
 
